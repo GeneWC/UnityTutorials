@@ -1,0 +1,543 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1676955840986343, "dur":1582, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1676955840987931, "dur":41, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1676955840987982, "dur":13, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1676955840987995, "dur":533, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1676955840988559, "dur":431, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1676955840988990, "dur":1, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1676955842194407, "dur":418, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1676955842194825, "dur":21, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1676955842194846, "dur":61, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1676955842194907, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1676955842194913, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1676955842194915, "dur":12, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1676955842194927, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1676955842194928, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1676955842194933, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1676955842194934, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1676955842194940, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1676955842194941, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1676955842194948, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1676955842194950, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1676955842194954, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1676955842194956, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1676955842194961, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1676955842194962, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1676955842194967, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1676955842194969, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1676955842194974, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1676955842194975, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1676955842194979, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1676955842194981, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1676955842194988, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1676955842194990, "dur":10, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1676955842195000, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1676955842195002, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1676955842195009, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1676955842195011, "dur":10, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1676955842195021, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1676955842195023, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1676955842195029, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1676955842195038, "dur":2, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1676955842195046, "dur":2148, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1676955840988779, "dur":217, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1676955840988997, "dur":6580, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1676955840995585, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1676955840995597, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1676955840998185, "dur":733, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1676955840998923, "dur":150, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1676955840999076, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1676955840999685, "dur":12970, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1676955841012656, "dur":129131, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":1, "ts":1676955841141790, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1676955841141795, "dur":18690, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":1, "ts":1676955841160627, "dur":17617, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1676955841178250, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1676955841178262, "dur":2302, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1676955841180683, "dur":19818, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1676955841200507, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1676955841200517, "dur":3378, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1676955841204027, "dur":21484, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1676955841225519, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1676955841225533, "dur":2606, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1676955841228272, "dur":34284, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1676955841262563, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1676955841262574, "dur":4080, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1676955841267345, "dur":24677, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1676955841292046, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1676955841292171, "dur":10990, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1676955841305274, "dur":38485, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1676955841343763, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1676955841343772, "dur":7189, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1676955841351118, "dur":2484, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":1, "ts":1676955841353610, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1676955841353625, "dur":2419, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":1, "ts":1676955841356188, "dur":98071, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":1, "ts":1676955841454265, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1676955841454311, "dur":8068, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":1, "ts":1676955841462623, "dur":35517, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":1, "ts":1676955841498147, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1676955841498159, "dur":18947, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":1, "ts":1676955841518826, "dur":72589, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":1, "ts":1676955841591420, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1676955841591432, "dur":5636, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":1, "ts":1676955841597231, "dur":174548, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":1, "ts":1676955841771790, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1676955841771808, "dur":4397, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":1, "ts":1676955841776363, "dur":418056, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1676955840988816, "dur":183, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1676955840989000, "dur":6660, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1676955840995662, "dur":500, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1676955840996165, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1676955840998871, "dur":11248, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1676955841010320, "dur":202, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":2, "ts":1676955841010524, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1676955841010530, "dur":92786, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":2, "ts":1676955841103514, "dur":43333, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1676955841146854, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1676955841146865, "dur":4904, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1676955841151897, "dur":60323, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1676955841212227, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1676955841212239, "dur":2727, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1676955841215090, "dur":57144, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1676955841272238, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1676955841272248, "dur":27400, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1676955841299826, "dur":19610, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1676955841319441, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1676955841319451, "dur":8574, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1676955841328156, "dur":41505, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1676955841369667, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1676955841369679, "dur":2628, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1676955841372495, "dur":100027, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":2, "ts":1676955841472527, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1676955841472537, "dur":15931, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":2, "ts":1676955841488751, "dur":370960, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":2, "ts":1676955841859716, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1676955841859725, "dur":2596, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":2, "ts":1676955841862452, "dur":331977, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1676955840988827, "dur":177, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1676955840989004, "dur":6663, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1676955840995669, "dur":937, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1676955840996609, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1676955840997832, "dur":16456, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1676955841014416, "dur":87632, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1676955841102051, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1676955841102427, "dur":4812, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1676955841107410, "dur":16791, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1676955841124207, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1676955841124219, "dur":3252, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1676955841127623, "dur":19824, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1676955841147453, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1676955841147462, "dur":3382, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1676955841150974, "dur":105541, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1676955841256522, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1676955841256534, "dur":2594, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1676955841259264, "dur":27129, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1676955841286402, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1676955841286411, "dur":16975, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1676955841306701, "dur":34019, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1676955841340725, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1676955841340770, "dur":2459, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1676955841343387, "dur":126558, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1676955841469954, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1676955841469967, "dur":29251, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1676955841499407, "dur":184283, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":3, "ts":1676955841683698, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1676955841683716, "dur":2798, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":3, "ts":1676955841686656, "dur":371651, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":3, "ts":1676955842058313, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1676955842058322, "dur":2017, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":3, "ts":1676955842060437, "dur":133968, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1676955840988846, "dur":162, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1676955840989008, "dur":6626, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1676955840995635, "dur":727, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1676955840996365, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1676955841008199, "dur":347314, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1676955841359247, "dur":70675, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":4, "ts":1676955841429932, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1676955841429949, "dur":16705, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":4, "ts":1676955841447231, "dur":2075, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":4, "ts":1676955841449312, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1676955841449324, "dur":3041, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":4, "ts":1676955841452517, "dur":52920, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":4, "ts":1676955841505442, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1676955841505454, "dur":16033, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":4, "ts":1676955841527619, "dur":286577, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":4, "ts":1676955841814202, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1676955841814215, "dur":5391, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":4, "ts":1676955841819859, "dur":374570, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1676955840988864, "dur":147, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1676955840989011, "dur":6585, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1676955840995598, "dur":15004, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1676955841010605, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1676955841010612, "dur":4609, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1676955841015364, "dur":29916, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676955841045285, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1676955841045932, "dur":61493, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676955841107568, "dur":17923, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676955841125495, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1676955841125502, "dur":4720, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676955841131868, "dur":58746, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676955841190659, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1676955841190669, "dur":4892, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676955841198322, "dur":19178, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676955841217504, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1676955841217512, "dur":2919, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676955841220589, "dur":19004, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676955841239632, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1676955841239641, "dur":4016, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676955841243877, "dur":40981, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676955841284865, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1676955841284877, "dur":13737, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676955841298825, "dur":22852, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676955841321683, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1676955841321693, "dur":7410, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676955841334171, "dur":146905, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676955841481084, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1676955841481097, "dur":34149, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676955841557785, "dur":112366, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676955841670159, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1676955841670172, "dur":6808, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676955841677164, "dur":511935, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676955842189104, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1676955842189113, "dur":5116, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":5, "ts":1676955842194358, "dur":3, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":5, "ts":1676955842194363, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1676955840988892, "dur":123, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1676955840989016, "dur":6574, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1676955840995591, "dur":744, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1676955840996338, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1676955840999198, "dur":12570, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1676955841015006, "dur":87028, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1676955841102040, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1676955841102397, "dur":2944, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1676955841105475, "dur":127261, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1676955841232742, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1676955841232755, "dur":2844, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1676955841235719, "dur":26957, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1676955841262683, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1676955841262692, "dur":4109, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1676955841267375, "dur":27045, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1676955841294424, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1676955841294432, "dur":10063, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1676955841307041, "dur":79516, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1676955841386564, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1676955841386575, "dur":5308, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1676955841392036, "dur":90033, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":6, "ts":1676955841482075, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1676955841482084, "dur":33230, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":6, "ts":1676955841518532, "dur":188816, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":6, "ts":1676955841707354, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1676955841707363, "dur":3235, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":6, "ts":1676955841710789, "dur":925, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":6, "ts":1676955841711718, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1676955841711981, "dur":4398, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":6, "ts":1676955841716534, "dur":147, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":6, "ts":1676955841716686, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1676955841716694, "dur":8205, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":6, "ts":1676955841725083, "dur":337, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":6, "ts":1676955841725423, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1676955841725430, "dur":2659, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":6, "ts":1676955841728262, "dur":141, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/resources.assets" }}
+,{ "pid":12345, "tid":6, "ts":1676955841728442, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1676955841728448, "dur":19278, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/resources.assets" }}
+,{ "pid":12345, "tid":6, "ts":1676955841747881, "dur":446519, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1676955840988913, "dur":106, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1676955840989019, "dur":6561, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1676955840995586, "dur":32948, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":7, "ts":1676955841028541, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1676955841028803, "dur":74352, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":7, "ts":1676955841103289, "dur":18517, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1676955841121812, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1676955841121823, "dur":2212, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1676955841124142, "dur":66665, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1676955841190812, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1676955841190823, "dur":9973, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1676955841200941, "dur":43644, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1676955841244590, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1676955841244599, "dur":3541, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1676955841248282, "dur":222612, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1676955841470899, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1676955841470907, "dur":32223, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1676955841503331, "dur":139351, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":7, "ts":1676955841642688, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1676955841642744, "dur":3274, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":7, "ts":1676955841646188, "dur":77580, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":7, "ts":1676955841723772, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1676955841723781, "dur":3754, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":7, "ts":1676955841727730, "dur":217, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1676955841727952, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1676955841727960, "dur":5616, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1676955841733728, "dur":147, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/level0" }}
+,{ "pid":12345, "tid":7, "ts":1676955841733879, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1676955841733885, "dur":3858, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/level0" }}
+,{ "pid":12345, "tid":7, "ts":1676955841737923, "dur":166, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":7, "ts":1676955841738093, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1676955841738100, "dur":2570, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":7, "ts":1676955841740830, "dur":453581, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1676955840988930, "dur":92, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1676955840989022, "dur":6564, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1676955840995586, "dur":321, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1676955840995910, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1676955840998133, "dur":13381, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1676955841011765, "dur":3592, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676955841015360, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1676955841015543, "dur":87129, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676955841102829, "dur":36719, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676955841139553, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1676955841139563, "dur":10251, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676955841150552, "dur":36097, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676955841186662, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1676955841186676, "dur":2852, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676955841189672, "dur":27010, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676955841216687, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1676955841216790, "dur":2680, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676955841219618, "dur":53179, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676955841272801, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1676955841272809, "dur":28424, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676955841301405, "dur":30880, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676955841332293, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1676955841332306, "dur":3868, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676955841338763, "dur":126856, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676955841465624, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1676955841465633, "dur":18906, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676955841486135, "dur":252661, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676955841738800, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1676955841738808, "dur":2882, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":8, "ts":1676955841741841, "dur":452561, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1676955840988948, "dur":81, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1676955840989029, "dur":6640, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1676955840995671, "dur":13025, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":9, "ts":1676955841008698, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1676955841008703, "dur":1548, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":9, "ts":1676955841010379, "dur":204, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":9, "ts":1676955841010586, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1676955841010591, "dur":4261, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":9, "ts":1676955841014981, "dur":87054, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1676955841102041, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1676955841102388, "dur":3060, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1676955841105648, "dur":19873, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1676955841125526, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1676955841125534, "dur":4407, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1676955841130077, "dur":35473, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1676955841165556, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1676955841165566, "dur":2085, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1676955841167762, "dur":98167, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1676955841265936, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1676955841265947, "dur":3927, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1676955841270149, "dur":22365, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1676955841292518, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1676955841292526, "dur":11518, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1676955841306272, "dur":57494, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1676955841363773, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1676955841363786, "dur":2512, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1676955841366456, "dur":97095, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":9, "ts":1676955841463557, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1676955841463567, "dur":19504, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":9, "ts":1676955841483367, "dur":103168, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":9, "ts":1676955841586542, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1676955841586554, "dur":3660, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":9, "ts":1676955841590359, "dur":214686, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":9, "ts":1676955841805053, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1676955841805066, "dur":3583, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":9, "ts":1676955841808806, "dur":385591, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1676955840988966, "dur":67, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1676955840989033, "dur":6594, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1676955840995628, "dur":14903, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":10, "ts":1676955841010533, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1676955841010539, "dur":2224, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":10, "ts":1676955841012902, "dur":4866, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":10, "ts":1676955841017772, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1676955841017780, "dur":88399, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":10, "ts":1676955841106311, "dur":26873, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1676955841133226, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1676955841133237, "dur":3027, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1676955841136425, "dur":149921, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1676955841286352, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1676955841286362, "dur":13267, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1676955841299826, "dur":154182, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1676955841454015, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1676955841454026, "dur":8703, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1676955841462962, "dur":141722, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":10, "ts":1676955841604692, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1676955841604704, "dur":3106, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":10, "ts":1676955841607969, "dur":148999, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":10, "ts":1676955841756976, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1676955841756987, "dur":3026, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":10, "ts":1676955841760180, "dur":434228, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1676955840988981, "dur":55, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1676955840989036, "dur":6564, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1676955840995602, "dur":743, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":11, "ts":1676955840996348, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1676955841000102, "dur":273548, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":11, "ts":1676955841273836, "dur":34014, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":11, "ts":1676955841307855, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1676955841307863, "dur":16424, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":11, "ts":1676955841324448, "dur":90321, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1676955841414778, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1676955841414792, "dur":6159, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1676955841421101, "dur":35514, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":11, "ts":1676955841456624, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1676955841456641, "dur":6152, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":11, "ts":1676955841463034, "dur":350197, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":11, "ts":1676955841813238, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1676955841813250, "dur":4844, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":11, "ts":1676955841818246, "dur":376168, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1676955840988998, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1676955840988999, "dur":6634, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1676955840995634, "dur":15883, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1676955841011520, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1676955841011549, "dur":2117, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1676955841013808, "dur":150, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":12, "ts":1676955841013961, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1676955841014961, "dur":95768, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":12, "ts":1676955841110838, "dur":28744, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1676955841139586, "dur":6, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1676955841139598, "dur":9749, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1676955841149668, "dur":41310, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1676955841190982, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1676955841190988, "dur":9994, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1676955841201134, "dur":20126, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1676955841221265, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1676955841221273, "dur":5339, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1676955841226771, "dur":40114, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1676955841266890, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1676955841266933, "dur":4247, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1676955841271320, "dur":69034, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1676955841340361, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1676955841340372, "dur":8657, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1676955841349192, "dur":357916, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":12, "ts":1676955841707116, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1676955841707130, "dur":3193, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":12, "ts":1676955841710503, "dur":428, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":12, "ts":1676955841710935, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1676955841711723, "dur":2799, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":12, "ts":1676955841714674, "dur":240, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":12, "ts":1676955841714920, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1676955841714931, "dur":7874, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":12, "ts":1676955841723056, "dur":196, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":12, "ts":1676955841723258, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1676955841723268, "dur":3325, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":12, "ts":1676955841726763, "dur":1319, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":12, "ts":1676955841728086, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1676955841728092, "dur":3293, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":12, "ts":1676955841731529, "dur":176, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/level0.resS" }}
+,{ "pid":12345, "tid":12, "ts":1676955841731709, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1676955841731717, "dur":2219, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/level0.resS" }}
+,{ "pid":12345, "tid":12, "ts":1676955841734084, "dur":503, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":12, "ts":1676955841734592, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1676955841734598, "dur":3865, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":12, "ts":1676955841738676, "dur":359, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/boot.config" }}
+,{ "pid":12345, "tid":12, "ts":1676955841739038, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1676955841739045, "dur":2224, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/boot.config" }}
+,{ "pid":12345, "tid":12, "ts":1676955841741428, "dur":452970, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1676955840989027, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1676955840989027, "dur":6636, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1676955840995664, "dur":11640, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":13, "ts":1676955841007308, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1676955841007321, "dur":2566, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":13, "ts":1676955841010032, "dur":167, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":13, "ts":1676955841010201, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1676955841010207, "dur":338152, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":13, "ts":1676955841348545, "dur":114492, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":13, "ts":1676955841463042, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1676955841463052, "dur":20257, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":13, "ts":1676955841483478, "dur":144974, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":13, "ts":1676955841628462, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1676955841628478, "dur":3514, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":13, "ts":1676955841632151, "dur":155456, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":13, "ts":1676955841787613, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1676955841787624, "dur":3755, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":13, "ts":1676955841791523, "dur":402889, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1676955840989051, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1676955840989051, "dur":6536, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1676955840995589, "dur":14417, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":14, "ts":1676955841010011, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1676955841010029, "dur":5796, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":14, "ts":1676955841015957, "dur":86159, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1676955841102121, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1676955841102445, "dur":2890, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1676955841105475, "dur":28272, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1676955841133751, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1676955841133759, "dur":7887, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1676955841141783, "dur":151898, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":14, "ts":1676955841293686, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1676955841293694, "dur":9753, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":14, "ts":1676955841305741, "dur":77721, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1676955841383476, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1676955841383528, "dur":36761, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1676955841420470, "dur":50230, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":14, "ts":1676955841470706, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1676955841470716, "dur":45863, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":14, "ts":1676955841549368, "dur":389379, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":14, "ts":1676955841938752, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1676955841938763, "dur":4293, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":14, "ts":1676955841943218, "dur":251209, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1676955840989134, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1676955840989134, "dur":6470, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1676955840995605, "dur":319, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":15, "ts":1676955840995927, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1676955840998253, "dur":14942, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":15, "ts":1676955841013320, "dur":33097, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface.exe" }}
+,{ "pid":12345, "tid":15, "ts":1676955841046421, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1676955841046426, "dur":57151, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface.exe" }}
+,{ "pid":12345, "tid":15, "ts":1676955841103777, "dur":30145, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1676955841134325, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1676955841134718, "dur":7457, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1676955841142301, "dur":26052, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1676955841168359, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1676955841168371, "dur":1777, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1676955841170258, "dur":34148, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1676955841204411, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1676955841204420, "dur":3865, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1676955841208419, "dur":30115, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1676955841238542, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1676955841239293, "dur":4340, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1676955841243876, "dur":25144, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1676955841269024, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1676955841269032, "dur":19637, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1676955841288864, "dur":29483, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1676955841318354, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1676955841318367, "dur":10789, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1676955841334132, "dur":100362, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":15, "ts":1676955841434501, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1676955841434513, "dur":12284, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":15, "ts":1676955841447124, "dur":47681, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":15, "ts":1676955841494812, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1676955841494823, "dur":23448, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":15, "ts":1676955841519315, "dur":261429, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":15, "ts":1676955841780751, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1676955841780769, "dur":3178, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":15, "ts":1676955841784081, "dur":410315, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1676955840989174, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1676955840989175, "dur":6455, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1676955840995632, "dur":910, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":16, "ts":1676955840996549, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1676955840997726, "dur":14359, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":16, "ts":1676955841012247, "dur":26890, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":16, "ts":1676955841039202, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1676955841039211, "dur":69904, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":16, "ts":1676955841109242, "dur":49544, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1676955841158793, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1676955841158804, "dur":2453, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1676955841161378, "dur":57278, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1676955841218660, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1676955841218668, "dur":2420, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1676955841221218, "dur":47259, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1676955841268481, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1676955841268488, "dur":3286, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1676955841271927, "dur":34810, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1676955841306743, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1676955841306793, "dur":16768, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1676955841323761, "dur":167003, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1676955841490773, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1676955841490788, "dur":25313, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1676955841518701, "dur":183374, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":16, "ts":1676955841702087, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1676955841702104, "dur":2947, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":16, "ts":1676955841705214, "dur":143617, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":16, "ts":1676955841848836, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1676955841848850, "dur":4094, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zionc/Downloads/unit 5 user interface_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":16, "ts":1676955841853134, "dur":341299, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1676955842199158, "dur":2306, "ph":"X", "name": "ProfilerWriteOutput" }
+,
